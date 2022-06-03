@@ -1,0 +1,6 @@
+C:\Users\corey\Desktop\csharp27\syntaxsugar\syntaxsugar\bin\Debug\syntaxsugar.exe
+C:\Users\corey\Desktop\csharp27\syntaxsugar\syntaxsugar\bin\Debug\syntaxsugar.pdb
+C:\Users\corey\Desktop\csharp27\syntaxsugar\syntaxsugar\obj\Debug\syntaxsugar.csproj.AssemblyReference.cache
+C:\Users\corey\Desktop\csharp27\syntaxsugar\syntaxsugar\obj\Debug\syntaxsugar.csproj.CoreCompileInputs.cache
+C:\Users\corey\Desktop\csharp27\syntaxsugar\syntaxsugar\obj\Debug\syntaxsugar.exe
+C:\Users\corey\Desktop\csharp27\syntaxsugar\syntaxsugar\obj\Debug\syntaxsugar.pdb
